@@ -1,7 +1,7 @@
 @extends('layouts.account')
 
 @section('title')
-    Dashboard - UANGKU
+    Dashboard - UANGKAS
 @stop
 
 @section('content')

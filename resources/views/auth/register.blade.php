@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Daftar Akun &mdash; UANGKU</title>
+    <title>Daftar Akun &mdash; UANGKAS</title>
     <link rel="shortcut icon" href="{{ asset('assets/img/logo.png') }}">
     <!-- General CSS Files -->
     <link rel="stylesheet" href="{{ asset('assets/modules/bootstrap/css/bootstrap.min.css') }}">
@@ -104,7 +104,7 @@
                         </div>
                     </div>
                     <div class="simple-footer">
-                        © <strong>UANGKU</strong> 2019. Hak Cipta Dilindungi.
+                        © <strong>UANGKAS</strong> 2024. Hak Cipta Dilindungi.
                     </div>
                 </div>
             </div>
